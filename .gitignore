@@ -1,3 +1,4 @@
 .direnv/
 .direnv-cache/
 .venv/
+.local/
